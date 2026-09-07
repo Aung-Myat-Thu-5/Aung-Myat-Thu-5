@@ -8,3 +8,5 @@ I am *Aung Myat Thu*, currently studying **Computer Science** at [Seoul National
 1. Game Development
 2. AI
 3. Autonomous Systems
+
+I am always excited :joy: to learn new things :books:.
